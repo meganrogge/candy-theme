@@ -2,7 +2,7 @@
     "name": "candy-theme",
     "displayName": "Candy",
     "description": "A theme that looks like candy",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "publisher": "meganrogge",
     "repository": {
         "type": "git",
