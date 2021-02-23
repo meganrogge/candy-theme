@@ -20,7 +20,7 @@
             {
                 "label": "Candy",
                 "uiTheme": "vs-dark",
-                "path": "./themes/candy-theme.json"
+                "path": "./themes/candy.json"
             }
         ]
     },

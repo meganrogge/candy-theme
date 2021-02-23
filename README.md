@@ -13,3 +13,5 @@ A theme inspired by candy for VS Code.
 3. Select `Candy`
 
 <img src="https://raw.githubusercontent.com/meganrogge/candy-theme/main/theme.PNG" alt="Candy theme preview" style="max-width:100%;">
+
+Icon adapted from iconarchive.com
