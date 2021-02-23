@@ -1,12 +1,12 @@
 {
-    "name": "min-theme",
-    "displayName": "Min Theme",
-    "description": "A minimal theme that comes in dark and light.",
-    "version": "1.4.7",
-    "publisher": "miguelsolorio",
+    "name": "candy-theme",
+    "displayName": "Candy Theme",
+    "description": "A theme that looks like candy",
+    "version": "0.0.0",
+    "publisher": "meganrogge",
     "repository": {
         "type": "git",
-        "url": "https://github.com/misolori/min-theme.git"
+        "url": "https://github.com/meganrogge/candy-theme.git"
     },
     "engines": {
         "vscode": "^1.25.0"
@@ -18,14 +18,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Min Dark",
+                "label": "Candy Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/min-dark.json"
-            },
-            {
-                "label": "Min Light",
-                "uiTheme": "vs",
-                "path": "./themes/min-light.json"
+                "path": "./themes/candy-theme.json"
             }
         ]
     },
