@@ -12,4 +12,4 @@ A theme inspired by candy for VS Code.
 2. Go to `File > Preferences > Color Theme`
 3. Select `Candy`
 
-<img src="theme.PNG" alt="Candy theme preview" style="max-width:100%;">
+<img src="https://raw.githubusercontent.com/meganrogge/candy-theme/main/theme.PNG" alt="Candy theme preview" style="max-width:100%;">
