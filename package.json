@@ -1,6 +1,6 @@
 {
     "name": "candy-theme",
-    "displayName": "Candy Theme",
+    "displayName": "Candy",
     "description": "A theme that looks like candy",
     "version": "0.0.0",
     "publisher": "meganrogge",
@@ -18,7 +18,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Candy Theme",
+                "label": "Candy",
                 "uiTheme": "vs-dark",
                 "path": "./themes/candy-theme.json"
             }
@@ -27,5 +27,9 @@
     "galleryBanner": {
         "color": "#000000",
         "theme": "dark"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "yarn": "^1.22.10"
     }
 }
